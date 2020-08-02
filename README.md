@@ -15,5 +15,5 @@ Meu nome é João Marcos Lopes Pinto e atuo na área como desenvolvedor fullstac
 - 👩‍💻 **Tecnologias:** Node.JS, ReactJS, React Native, GitHub
 - 📚 **Acadêmico:** Técnico em Informática e** 
 
-> :octocat:
+> :stormtroopocat:
 
