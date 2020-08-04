@@ -12,8 +12,7 @@ Meu nome é João Marcos Lopes Pinto e atuo na área como desenvolvedor fullstac
 
 - 💼 Trabalhei em alguns projetos a comando da **[Specter Labs](http://specterlabs.com.br/)**
 - 💻 **Linguagens:** Html, CSS, JavaScript, Java, SQL
-- 👩‍💻 **Tecnologias:** Node.JS, ReactJS, React Native, GitHub
-- 📚 **Acadêmico:** Técnico em Informática e** 
+- 👩‍💻 **Tecnologias:** Node.JS, ReactJS, React Native, GitHub 
 
 > :octocat:
 
