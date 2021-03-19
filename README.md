@@ -12,8 +12,6 @@
 - 📌 Minas Gerais, Brazil
 
 ### Social Media:
-
-<div style="margin-bottom: 10px">
   <a href="https://www.linkedin.com/in/joaomarcoslp3/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -29,8 +27,7 @@
   <a href="https://gitlab.com/joaom.lopes">
     <img src="https://img.shields.io/badge/Gitlab-380D76?style=for-the-badge&logo=Gitlab&logoColor=white"/>
   </a>
-</div>
-
+  <br/><br/>
 <p align="center">
    <a href="https://github.com/joaomarcoslp3?tab=repositories">
     <img
@@ -48,5 +45,5 @@
     />
   </a>
   </p>
-> :octocat:
-
+  <br/>
+:octocat:
