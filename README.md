@@ -3,16 +3,50 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-marcos-lopes-pinto-a8773b1ab/)](https://www.linkedin.com/in/jo%C3%A3o-marcos-lopes-pinto-a8773b1ab/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaomarcoslp3@gmail.com)](mailto:joaomarcoslp3@gmail.com)
 
-<h1 align="center">
-  <img src ="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
-</h1>
+### Hello World, 👋
+<p>My name is João Marcos Lopes Pinto and i am a fullstack web developer since 2018, glad to have you here</p>
 
-<h3> Hello World, </h3>
-Meu nome é João Marcos Lopes Pinto e atuo na área como desenvolvedor fullstack já a alguns anos
 
-- 💼 Trabalhei em alguns projetos a comando da **[Specter Labs](http://specterlabs.com.br/)**
-- 💻 **Linguagens:** Html, CSS, JavaScript, Java, SQL
-- 👩‍💻 **Tecnologias:** Node.JS, ReactJS, React Native, Git
+### About:
 
+- 💼 Front-end Engineer **[@Mutual.Club](https://mutual.club/)**
+- 🎓 IFMG Campus Formiga
+- 💻 **Languages:** Html, CSS, JavaScript, Java, SQL, Typescript
+- 👩‍💻 **Techs:** Node.JS, ReactJS, React Native, Git
+- 📌 Minas Gerais, Brazil
+
+### Social Media:
+
+<div style="margin-bottom: 10px">
+  <a href="https://www.linkedin.com/in/joaomarcoslp3/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/joaomarcoslp3/" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:joaomarcoslp3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+</div>
+
+<p align="center">
+   <a href="https://github.com/joaomarcoslp3?tab=repositories">
+    <img
+      align="center"
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcoslp3&langs_count=8&layout=compact&theme=react"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/joaomarcoslp3?tab=repositories">
+    <img
+      align="center"
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=joaomarcoslp3&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=react"
+    />
+  </a>
+  </p>
 > :octocat:
 
