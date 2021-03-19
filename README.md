@@ -1,9 +1,5 @@
 # João Marcos Lopes Pinto ⌨
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaomarcoslp3)](https://github.com/joaomarcoslp3)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-marcos-lopes-pinto-a8773b1ab/)](https://www.linkedin.com/in/jo%C3%A3o-marcos-lopes-pinto-a8773b1ab/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaomarcoslp3@gmail.com)](mailto:joaomarcoslp3@gmail.com)
-
-### Hello World, 👋
+## Hello World, 👋
 <p>My name is João Marcos Lopes Pinto and i am a fullstack web developer since 2018, glad to have you here</p>
 
 
@@ -28,6 +24,10 @@
 
   <a href="mailto:joaomarcoslp3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://gitlab.com/joaom.lopes">
+    <img src="https://img.shields.io/badge/Gitlab-380D76?style=for-the-badge&logo=Gitlab&logoColor=white"/>
   </a>
 </div>
 
