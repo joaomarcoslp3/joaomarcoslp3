@@ -5,7 +5,7 @@
 
 ### About:
 
-- 💼 Front-end Engineer **[@Mutual.Club](https://mutual.club/)**
+- 💼 Front-end Engineer **[@Praxent](https://praxent.com/)**
 - 🎓 IFMG Campus Formiga
 - 💻 **Languages:** Html, CSS, JavaScript, Java, SQL, Typescript
 - 👩‍💻 **Techs:** Node.JS, ReactJS, React Native, Git
