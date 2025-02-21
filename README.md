@@ -36,14 +36,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcoslp3&langs_count=8&layout=compact&theme=react"
     />
   </a>
-  &nbsp;
-  <a href="https://github.com/joaomarcoslp3?tab=repositories">
-    <img
-      align="center"
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=joaomarcoslp3&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=react"
-    />
-  </a>
   </p>
   <br/>
 :octocat:
